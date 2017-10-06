@@ -1,5 +1,12 @@
 # Contact
 
+- [General](#general)
+- [Sending your email Address Privately](#sending-your-email-address-privately)
+- [Double-Blind](#double-blind)
+
+----------
+## General
+
 I use git primarily for archive repositories.  If you are interested in
 collaborating, or have a suggestion, or most importantly, have found an
 error or omission, I am eager to hear from you.
@@ -68,7 +75,7 @@ individuals addicted to fatuous social media outlets.
 
 There are two problems with that simplistic solution, detailed here.
 
-##### Coercive Participation
+##### A: Coercive Participation
 
 My solution forces you to join `GitHub`.  I understand all too well how
 odious that is.  Social media outlets use that tactic extensively to expand
@@ -96,14 +103,14 @@ more than willing to surmount the small barrier to communication I have
 imposed.  If you are more like me, you can see that this barrier is
 miniscule in comparison to that routinely imposed by social media.
 
-##### Issues are Publicly Viewable
+##### B: Issues are Publicly Viewable
 
 This is a bigger problem.  If I don't want my email address visible, why
 should I expect you to make your's public?  Indeed.  There is a solution
 to that.  Follow the instructions in the next section.
 
-### Sending your email Address Privately
-----------------------------------------
+---------------------------------------
+## Sending your email Address Privately
 
 Anyone seriously using `git` is familiar with `ssh`.  If you already have
 a `GitHub` account, you doubtless connect using `ssh` and have uploaded one
@@ -161,10 +168,10 @@ that `ssh-keygen` created.  In my case, the limit is 500 characters.
 
 That's all there is to it!
 
-### Double-Blind
-----------------
+---------------
+## Double-Blind
 
-If you like, in lieu of your email address, you may send the url of your
+If you like, in lieu of your email address, you may send the `url` of your
 `GitHub` contact repository similar to this one.  I can then post an encrypted
 reply and neither of us will ever know the other's email address (assuming
 you have elected to keep your `GitHub` contact address private).

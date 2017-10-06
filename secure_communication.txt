@@ -19,7 +19,7 @@
 # keys are elliptic curve keys, you are on your own.  The method here
 # might work or it might not - I have not tried it.
 #
-# 1) convert the receiver's ssh public key file to a pem file:
+# 1) Convert the receiver's ssh public key file to a pem file:
 # (Wikipedia says 'PEM is a defacto file format for storing and sending
 #  cryptography keys, certificates, and other data, based on a set of
 #  1993 IETF standards defining "privacy-enhanced mail." '.  The email
@@ -76,7 +76,7 @@ f56MopJRmltrdtSn2ygmq+EnfR6nmAQJEx5vAx4+t9feybOGu2HdmTinoI/rXVez8IFuLOfPzO/+
 mC9Wv3xfviwnBuDdE5ZZNyZGrHKHGFpvNo4K0idVn1P4EZFKKLma+xsNHRkhggdj32zGCkVL40F4
 akGzv3yohYG6z/4waY+Fj46fv0HiKbnbSF0SsQ==
 #
-# 3) copy/paste the output into an email or messaging application and send.
+# 3) Copy/paste the output into an email or messaging application and send.
 #
 ### Receiver does this:
 #
