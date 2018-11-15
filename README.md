@@ -7,7 +7,7 @@
 ----------
 ## General
 
-I use git primarily for archive repositories.  If you are interested in
+I use `git` primarily for archive repositories.  If you are interested in
 collaborating, or have a suggestion, or most importantly, have found an
 error or omission, I am eager to hear from you.
 
